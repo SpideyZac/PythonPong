@@ -8,6 +8,6 @@ Before using this code you must download the pygame library from pyton:
 3. Enjoy running the code!
 
 # Ussage
-Open the PONG.py script on your python IDE
-Run the script
-W and S keys are to controll pad1 and UP_ARROW and DOWN_ARROW are to controll pad2.
+1. Open the PONG.py script on your python IDE
+2. Run the script
+3. W and S keys are to controll pad1 and UP_ARROW and DOWN_ARROW are to controll pad2.
